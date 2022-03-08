@@ -1,3 +1,3 @@
 # GIT-Practice
 # Hello 
-# This a page
+# This is a page
